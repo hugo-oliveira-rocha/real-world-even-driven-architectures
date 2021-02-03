@@ -1,0 +1,23 @@
+[
+    {
+        "EventName": "OrderAddressChanged",
+        "Payload": 
+        {
+            "OrderId": 15251212,
+            "Address": "9980 Rock Maple Street",
+            "UserId": 12162
+        }
+    },
+    {
+        "EventName": "OrderDocument",
+        "Payload": 
+        {
+            "OrderId": 15251212,
+            "Address": "9980 Rock Maple Street",
+            "ProductId": 1147421,
+            "Quantity": 1,
+            "OrderedAt": "2021-01-23T18:25:43.511Z",
+            "UserId": 12168
+        }
+    }
+]

@@ -1,0 +1,20 @@
+{
+    "EventName": "StockPurchased",
+    "Payload": 
+    {
+        "ProductId": 15251212,
+        "Size": "XS",
+        "Quantity": 1,
+        "ProductCurrentQuantity": 5,
+        "ProductSizes":[
+            {
+                "Size": "S",
+                "Quantity": 3
+            },
+            {
+                "Size": "M",
+                "Quantity": 2
+            }
+        ]
+    }
+}

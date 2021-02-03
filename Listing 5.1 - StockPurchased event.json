@@ -1,0 +1,9 @@
+{
+    "EventName": "StockPurchased",
+    "Payload": 
+    {
+        "ProductId": 15251212,
+        "Size": "XS",
+        "Quantity": 1
+    }
+}
