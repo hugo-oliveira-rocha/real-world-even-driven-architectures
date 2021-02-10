@@ -5,7 +5,7 @@ CREATE TABLE Stock
     Size varchar(10),
     StoreId int,
     Quantity int,
-    primary key (ProductId, Size)
+    primary key (ProductId, Size, StoreId)
 )
 
 -- Enable CDC at the database level 
